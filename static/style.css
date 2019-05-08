@@ -1,5 +1,5 @@
 body {
-    background-color: #eee;
+    background-color: #2881e0;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
@@ -40,8 +40,8 @@ fieldset {
 table, td {
     margin-left: auto;
     margin-right: auto;
-    background-color: lightgray;
-    border: 30px solid lightgray;
+    background-color: #22e535;
+    border: 30px solid #b23c3c;
     border-collapse: collapse;
 }
 
